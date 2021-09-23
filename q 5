@@ -8,26 +8,26 @@
   <tr> 
     <th>ROLLNO.</th>
     <th>STUDENT'S NAME</th>
-    <th>GRADE POINT</th>
+    <th>GRADES</th>
   </tr>
   <tr> 
     <td>12</td>
-    <td>Aniket Garg</td>
-    <td>9.1</td>
+    <td>Pragya Mattas</td>
+    <td>9.3</td>
   </tr>
   <tr>
     <td>13</td>
-    <td>Atul Mishra</td>
-    <td>8.4</td>
+    <td>Abish Rana</td>
+    <td>7.4</td>
   </tr>
   <tr>
     <td>14</td>
-    <td>Kabir Vashisht</td>
-    <td>9.8</td>
+    <td>Karan Rai</td>
+    <td>9.7</td>
   </tr>
   <tr>
     <td>14</td>
-    <td>Saumya Choudhary</td>
+    <td>Sara Singh</td>
     <td>8.9</td>
   </tr>
 </table>
